@@ -9,3 +9,6 @@ my first documented data analysis as a student with SkilHavest
 
 
 ```
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
