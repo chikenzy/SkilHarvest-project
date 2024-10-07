@@ -19,7 +19,7 @@ The primary data sources are MS Excel, with open-source data freely downloadable
   
   - FRED
   
-  -   or the USDA ERS website (https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices.aspx)
+  -   or the USDA ERS website [download here](https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices.aspx)
 
   -   
 Data Cleaning and Preparation: The data cleaning and preparation process involves several steps, including:
