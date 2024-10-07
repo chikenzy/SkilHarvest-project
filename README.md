@@ -31,15 +31,18 @@ The data cleaning and preparation process involves several steps, including:
 ## Data Tools Used
 The major tools used for the analysis include:
 
-  - MS Excel (download here)
+  - MS Excel [download here](https://www.microsoft.com)
+    
   - Microsoft Power BI
+    
   - 	Google Sheets
+    
   - 	Google software
 
 
 
 
-[download here](https://www.microsoft.com)
+
 
 
 ``` SQL
