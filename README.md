@@ -61,12 +61,10 @@ This phase involves exploring the data to answer key questions, such as:
 
 This section includes basic lines of code or queries, as well as DAX expressions used during the analysis. For example:
 
-```
-SQL
-
+```SQL
 SELECT FROM TABLE 1
 WHERE CONDITION=TRUE
-
+```
 
 
 
