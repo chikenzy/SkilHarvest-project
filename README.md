@@ -27,8 +27,14 @@ The data cleaning and preparation process involves several steps, including:
 1.	Data loading and inspection
 2.	Handling missing variables
 3.	Data cleaning and formatting
-  
-Data Cleaning and Preparation: The data cleaning and preparation process involves several steps, including:
+
+## Data Tools Used
+The major tools used for the analysis include:
+- MS Excel (download here)
+•	Microsoft Power BI
+•	Google Sheets
+•	Google software
+
 
 
 
