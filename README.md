@@ -21,7 +21,13 @@ The primary data sources are MS Excel, with open-source data freely downloadable
   
   -   or the USDA ERS website [download here](https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices.aspx)
 
-  -   
+## Data Cleaning and Preparation
+
+The data cleaning and preparation process involves several steps, including:
+1.	Data loading and inspection
+2.	Handling missing variables
+3.	Data cleaning and formatting
+  
 Data Cleaning and Preparation: The data cleaning and preparation process involves several steps, including:
 
 
