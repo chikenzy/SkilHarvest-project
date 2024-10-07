@@ -1,7 +1,7 @@
 # Fruit and Vegetable Prices
 ---
 
-## Project Overview (#project-overview)
+# Project Overview (#project-overview)
 
 ## Project Overview
 ---
