@@ -39,6 +39,34 @@ The major tools used for the analysis include:
     
   - 	Google software
 
+These tools are essential for pivoting and analyzing the data.
+
+## Exploratory Data Analysis (EDA)
+
+This phase involves exploring the data to answer key questions, such as:
+
+  - What is the overall sales trend?
+  
+  - Top 5 fruits by retail price)
+  
+  - Which products are top sellers? (Top 10 fruits by cup equivalent price)
+  
+  - Total form yield
+  
+  - Bottom 5 forms by cup equivalent price
+  
+  - What are the products with peak sales? (Report of fruit by yield)
+
+## Data Analysis
+
+This section includes basic lines of code or queries, as well as DAX expressions used during the analysis. For example:
+
+```
+SQL
+
+SELECT FROM TABLE 1
+WHERE CONDITION=TRUE
+
 
 
 
