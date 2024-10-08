@@ -73,4 +73,6 @@ SELECT FROM TABLE 1
 WHERE CONDITION=TRUE
 ```
 
+<img width="364" alt="fruit sales" src="https://github.com/user-attachments/assets/71eaa299-7e3f-45f8-90e4-f1e752bc7884">
+
 
